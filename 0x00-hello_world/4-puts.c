@@ -1,10 +1,3 @@
-(setq c-default-style "bsd"
-
-      c-basic-offset 8
-
-      tab-width 8
-
- indent-tabs-mode t)
 #include <stdio.h>
 
 /**
@@ -15,7 +8,7 @@
 
 int main(void)
 {
-                   char test_str[] = "\"Programming is like building a multilingual puzzle";
-                   puts(test_str);
-                          return (0);
+  char test_str[] = "\"Programming is like building a multilingual puzzle";
+  puts(test_str);
+  return (0);
 }
