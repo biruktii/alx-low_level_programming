@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-\tchar test_str[] = "\"Programming is like building a multilingual puzzle";
+                 char test_str[] = "\"Programming is like building a multilingual puzzle";
 
-\tputs(test_str);
-      \treturn (0);
+                 puts(test_str);
+                       return (0);
 }
