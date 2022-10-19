@@ -1,1 +1,1 @@
-#define "main.h"
+#define "main"
