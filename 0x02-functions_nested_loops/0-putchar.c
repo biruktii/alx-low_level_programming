@@ -4,6 +4,7 @@
  *
  * Return: Always 0 (success)
  */
+void _putchar();
 int main(void)
 {
 
