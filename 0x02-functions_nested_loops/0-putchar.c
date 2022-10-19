@@ -6,7 +6,8 @@
  *
  * Return: Always 0 (Success)
  */
-void _putchar(char);
+void _putchar(int);
+
 int main(void)
 {
 
