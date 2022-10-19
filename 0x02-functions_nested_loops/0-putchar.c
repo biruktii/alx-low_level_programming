@@ -4,9 +4,9 @@
  *
  * Description: 'character'
  *
- * Return: Always 0 (Success)
+ * Return: character "_putchar"
  */
-void _putchar(int);
+void _putchar(char);
 
 int main(void)
 {
