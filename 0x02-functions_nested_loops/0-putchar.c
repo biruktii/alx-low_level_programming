@@ -2,6 +2,8 @@
 /**
  * main - Entry point
  *
+ * Description: 'character'
+ *
  * Return: Always 0 (Success)
  */
 void _putchar(char);
