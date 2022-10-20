@@ -11,10 +11,10 @@ if (n > 0)
 {
 for (b = 0; b < n; b++)
 {
-for (a = 0; a < len; a++)
+for (a = 0; a < b; a++)
 _putchar(' ');
 _putchar('\\');
-if (len == n - 1)
+if (b == n - 1)
 continue;
 _putchar('\n')
 }
