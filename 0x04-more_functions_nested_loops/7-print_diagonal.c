@@ -16,7 +16,7 @@ _putchar(' ');
 _putchar('\\');
 if (b == n - 1)
 continue;
-_putchar('\n')
+_putchar('\n');
 }
 }
 _putchar('\n');
