@@ -9,7 +9,6 @@ void print_triangle(int size)
 int s, b;
 s = 0;
 b = size;
-/*for all i up to the forth */
 for (int i = 0; i < size; i++)
 {
 s = s + 1;
