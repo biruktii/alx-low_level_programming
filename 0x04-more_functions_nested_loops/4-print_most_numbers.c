@@ -4,8 +4,8 @@
  * Description: Can only use _putchar twice.
  */
 void print_most_numbers(void)
-{ 
-  
+{
+
 int i;
 i = 0;
 while (i < 10)
