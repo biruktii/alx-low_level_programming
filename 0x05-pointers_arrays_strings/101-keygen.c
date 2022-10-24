@@ -40,6 +40,6 @@ break;
 }
 }
 }
-printf("%s", password[index]);
+printf("%s", password);
 return (0);
 }
