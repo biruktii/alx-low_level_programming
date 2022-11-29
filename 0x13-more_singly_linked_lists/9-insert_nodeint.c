@@ -23,7 +23,7 @@ new_node->n = n;
 if (idx > 0)
 {
 iter = *head;
-while (iter)		
+while (iter)
 {
 if (count == idx)
 {
