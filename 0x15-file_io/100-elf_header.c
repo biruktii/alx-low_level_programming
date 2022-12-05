@@ -178,7 +178,8 @@ printf("\n");
 }
 
 /**
- *   main - parses an elf header file
+ *
+ *  main - parses an elf header file
  *
  *     @ac: number of args
  *      @av: arugment strings
